@@ -8,7 +8,11 @@ En utilisant l'instruction console.log(), il faut pour une suite de nombre allan
 4. Sinon inscrire le nombre
 
 ## Validation du fonctionnement
-Il vous suffit d'ouvrir le fichier index.htlm dans votre navigateur préféré et d'afficher la console de celui-ci.
+Il vous suffit d'ouvrir le fichier index.html dans votre navigateur préféré et d'afficher la console de celui-ci.
 
 ## Fichier à renseigner
 Le fichier Javascript à modifier se situe dans le dossier js : main.js
+
+## N.B
+- Penser à bien utiliser les instructions conditionnellmes
+- Utiliser les structures d'itération adéquate
