@@ -14,5 +14,5 @@ Il vous suffit d'ouvrir le fichier index.html dans votre navigateur préféré e
 Le fichier Javascript à modifier se situe dans le dossier js : main.js
 
 ## N.B
-- Penser à bien utiliser les instructions conditionnellmes
+- Penser à bien utiliser les instructions conditionnelles
 - Utiliser les structures d'itération adéquate
