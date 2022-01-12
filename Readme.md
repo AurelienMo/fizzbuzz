@@ -16,3 +16,6 @@ Le fichier Javascript à modifier se situe dans le dossier js : main.js
 ## N.B
 - Penser à bien utiliser les instructions conditionnelles
 - Utiliser les structures d'itération adéquate
+
+
+jkhkjh
